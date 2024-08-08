@@ -1,0 +1,13 @@
+Session,When,Duration,Time Asleep,Time to Sleep,Sleep Quality,Mood,REM (%),Light (%),Deep (%),Awake (%),Notes
+2,"Thursday, April 26, 2018 at 11:11 PM",6:49:34,6:34:34,0:15:00,58%,🙁 Not so good,9,23,51,17,
+3,"Friday, April 27, 2018 at 11:54 PM",9:20:43,8:05:43,1:15:00,70%,🙁 Not so good,19,30,38,13,Read a book
+4,"Saturday, April 28, 2018 at 11:24 PM",9:24:35,7:54:35,1:30:00,68%,😐 OK,31,27,26,16,
+5,"Sunday, April 29, 2018 at 10:43 PM",7:47:04,7:07:04,0:40:00,72%,😐 OK,17,30,44,9,Read a book
+6,"Monday, April 30, 2018 at 11:26 PM",6:38:07,6:23:07,0:15:00,75%,🙂 Good,14,36,45,5,
+7,"Tuesday, May 01, 2018 at 10:49 PM",7:46:25,7:11:25,0:35:00,73%,😐 OK,20,25,47,8,
+8,"Thursday, May 03, 2018 at 12:01 AM",7:43:24,6:23:24,1:20:00,63%,😐 OK,14,26,43,17,Read a book
+9,"Thursday, May 03, 2018 at 11:31 PM",6:53:34,5:51:35,1:01:59,63%,😐 OK,19,28,36,17,Read a book
+10,"Friday, May 04, 2018 at 11:13 PM",11:03:21,7:28:21,3:35:00,62%,😐 OK,17,22,29,32,Read a book
+11,"Sunday, May 06, 2018 at 12:37 AM",9:30:49,8:55:47,0:35:01,75%,😀 Great,16,26,52,6,
+12,"Sunday, May 06, 2018 at 10:57 PM",7:21:12,6:53:52,0:27:20,78%,🙁 Not so good,22,25,48,5,Read a book
+13,"Monday, May 07, 2018 at 10:42 PM",7:18:20,7:08:20,0:10:00,85%,🙂 Good,19,31,47,3,Read a book
